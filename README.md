@@ -1,18 +1,23 @@
 # @littlepig/message
 
+> [](https://img.shields.io/badge/npm-v1.0.0-blue.svg)
+>
 > A Vue.js project
 
-## Build Setup
+## Install
 
 ``` bash
-# install dependencies
-npm install
+$ npm install @littlepig/message
 
-# serve with hot reload at localhost:8080
-npm run dev
+```
 
-# build for production with minification
-npm run build
+## Usage
+
+```
+import message from '@littlepig/message';
+vue.use(message)
+
+this.$message.info('msg')
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
