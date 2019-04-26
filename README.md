@@ -1,11 +1,11 @@
 # @littlepig/message
 
-> A Vue.js project
+> This is a message component based on the vue
 
 ## Install
 
 ``` bash
-$ npm install @littlepig/message
+$ yarn add @littlepig/message --save
 
 ```
 

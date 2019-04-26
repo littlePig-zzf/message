@@ -1,8 +1,9 @@
 {
   "name": "@littlepig/message",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "author": "zhuzhifen_zzf@163.com",
+  "main": "./src/message.js",
   "license": "MIT",
   "private": false,
   "scripts": {
